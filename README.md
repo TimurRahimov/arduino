@@ -1,2 +1,2 @@
-# arduino
-Arduino Test
+# ARDUINO
+Обучение Arduino
